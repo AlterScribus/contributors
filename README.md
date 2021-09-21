@@ -9,6 +9,6 @@ It was used by several contributors, and produced some interesting branches :
 
 - 'imposer' branch includes works on imposing. AFAICT there were some very powerfull features but it required adjustements with bleeds.
 
-- Chelen created the unitLoader branch so as to test the new unit loader UI. Nice usability improvements have been reached and patches have been proposed in the bug tracker. Still waiting to be merded.
+- Chelen created the unitLoader branch so as to test the new unit loader UI. Nice usability improvements have been reached and patches have been proposed in the bug tracker. Still waiting to be merged.
 
-- Many other, see for yourself.
+- Several other, see for yourself.
